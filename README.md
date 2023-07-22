@@ -96,7 +96,7 @@ npm start
 <br>
 <br>
 
-## 📌 원티드 프리온보딩 12팀 개발 문화
+## 📌 원티드 프리온보딩 12팀
 
 - [**`팀원`**](https://github.com/wanted-pre-onboarding-team12/pre-onboarding-11th-3-12/wiki/%EC%9B%90%ED%8B%B0%EB%93%9C-%ED%94%84%EB%A6%AC%EC%98%A8%EB%B3%B4%EB%94%A9-12%ED%8C%80#team)
 
